@@ -1,7 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "group": "bed",
   "key": {
     "#": {
       "item": "minecraft:blue_wool"

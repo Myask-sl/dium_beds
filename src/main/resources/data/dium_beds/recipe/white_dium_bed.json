@@ -4,7 +4,7 @@
   "group": "dium_bed",
   "key": {
     "#": {
-      "item": "minecraft:yellow_wool"
+      "item": "minecraft:white_wool"
     },
     "X": {
       "tag": "minecraft:planks"
@@ -20,6 +20,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "dium_beds:yellow_dium_bed"
+    "id": "dium_beds:white_dium_bed"
   }
 }
