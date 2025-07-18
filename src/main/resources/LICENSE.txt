@@ -1,4 +1,7 @@
-MIT License
+Textures CC-BY-SA.
+
+code is...
+MIT License:
 
 Copyright (c) 2025 Myask/K.S. Lillian
 

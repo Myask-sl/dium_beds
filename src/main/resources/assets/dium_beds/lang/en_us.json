@@ -16,5 +16,7 @@
   "block.dium_beds.yellow_dium_bed": "Yellow diumBed",
   "block.dium_beds.white_dium_bed": "White diumBed",
   "block.dium_beds.orange_dium_bed": "Orange diumBed",
-  "block.dium_beds.beddium_dium_bed": "Beddium diumBed"
+  "block.dium_beds.beddium_dium_bed": "Beddium diumBed",
+
+  "itemGroup.diumbeds_tab": "dium Beds"
 }

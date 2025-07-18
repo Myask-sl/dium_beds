@@ -3,6 +3,7 @@ package invalid.myask.dium_beds;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.Registries;
+import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.*;
 import net.minecraft.world.level.block.BedBlock;
 import net.minecraft.world.level.block.Block;
@@ -131,6 +132,7 @@ public class diumBeds
     public static final RegistryObject<CreativeModeTab> DIUMBEDS_TAB = CREATIVE_MODE_TABS.register("diumbeds_tab", () -> CreativeModeTab.builder()
             .withTabsBefore(CreativeModeTabs.COMBAT)
             .icon(() -> ITEM_BEDDIUM_DIUM_BED.get().getDefaultInstance())
+            .title(Component.translatable("itemGroup.diumbeds_tab"))
             .displayItems((parameters, output) -> {
 //                output.accept(EXAMPLE_ITEM.get()); // Add the example item to the tab. For your own tabs, this method is preferred over the event
                 output.accept(ITEM_BLACK_DIUM_BED.get());
