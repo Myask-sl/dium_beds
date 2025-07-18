@@ -1,0 +1,11 @@
+{
+  "parent": "dium_beds:item/template_dium_bed",
+  "textures": {
+    "particle": "minecraft:block/yellow_wool",
+    "bedtop": "dium_beds:block/yellow_covers",
+    "cover_end": "dium_beds:block/yellow_covers",
+    "cover_side_2": "dium_beds:block/yellow_covers",
+    "cover_side": "dium_beds:block/yellow_covers",
+    "bedtop_2": "dium_beds:block/yellow_covers_2"
+  }
+}

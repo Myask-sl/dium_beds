@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "face": "dium_beds:block/beddium_bed",
+    "particle": "dium_beds:block/dium_planks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "dium_beds:item/template_dium_bed",
+  "textures": {
+    "particle": "minecraft:block/red_wool",
+    "bedtop": "dium_beds:block/red_covers",
+    "cover_end": "dium_beds:block/red_covers",
+    "cover_side_2": "dium_beds:block/red_covers",
+    "cover_side": "dium_beds:block/red_covers",
+    "bedtop_2": "dium_beds:block/red_covers_2"
+  }
+}

@@ -1,0 +1,16 @@
+0.0.0.0.0.0.0.0.0-2024-08-17: Resolved to create project. Made beddium.png
+ vanilla bed texture.
+0.0.0.0.0.0.0.0.0-2024-08-19: made model, updated texture to also work on model
+ & vanilla both. Looked through the render code for bed, and where its atlas
+ was stitched. Decided to bypass for now.
+0.0.0.0.0.0.0.0.0-2024-08-20: Block entity renderer working.
+0.0.0.0.0.0.0.0.0-2024-08-21: CGA texture variety made. JSON model version made
+ for non-placed contexts. Textures unstitched for JSON models.
+0.0.0.0.0.0.0.0.0-2024-08-22: JSON model offsets lined up.
+0.0.0.0.0.0.0.0.0-2024-08-23: moved forge changelog/credits/license/readme
+ to their own.
+ Made changelog.txt.
+ Finished implementing two special cases (one stupidSpecialCase) to add the two
+ special nondye colors: Beddium and Bright Cyan (aqua)
+ And, ported the load from block atlas back over to the first 16, so vanilla
+ beds can have their own texture again.

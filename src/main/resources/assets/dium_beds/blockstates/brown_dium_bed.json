@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dium_beds:block/dium_bed"
+    }
+  }
+}

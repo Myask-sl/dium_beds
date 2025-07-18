@@ -1,0 +1,11 @@
+{
+  "parent": "dium_beds:item/template_dium_bed",
+  "textures": {
+    "particle": "minecraft:block/cyan_wool",
+    "bedtop": "dium_beds:block/aqua_covers",
+    "cover_end": "dium_beds:block/aqua_covers",
+    "cover_side_2": "dium_beds:block/aqua_covers",
+    "cover_side": "dium_beds:block/aqua_covers",
+    "bedtop_2": "dium_beds:block/aqua_covers_2"
+  }
+}
