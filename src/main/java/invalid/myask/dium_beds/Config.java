@@ -1,4 +1,4 @@
-package placeholder.pacname.dium_beds;
+package invalid.myask.dium_beds;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;

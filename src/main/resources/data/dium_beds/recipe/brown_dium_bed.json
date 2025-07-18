@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:brown_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/brown"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "###",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:brown_dium_bed"
+  }
+}

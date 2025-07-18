@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:orange_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/orange"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "###",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:orange_dium_bed"
+  }
+}

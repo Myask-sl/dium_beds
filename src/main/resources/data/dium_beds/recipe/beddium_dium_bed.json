@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:blue_wool"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/blue"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "#W#",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:beddium_dium_bed"
+  }
+}

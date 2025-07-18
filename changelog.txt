@@ -14,3 +14,4 @@
  special nondye colors: Beddium and Bright Cyan (aqua)
  And, ported the load from block atlas back over to the first 16, so vanilla
  beds can have their own texture again.
+0.0.0.0.0.0.0.0.0-2025-07-17: git. MIT license added. Recipes. Language files.

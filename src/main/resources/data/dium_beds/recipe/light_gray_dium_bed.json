@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/light_gray"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "###",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:light_gray_dium_bed"
+  }
+}

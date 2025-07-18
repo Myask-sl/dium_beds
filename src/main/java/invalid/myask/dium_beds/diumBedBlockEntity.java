@@ -1,4 +1,4 @@
-package placeholder.pacname.dium_beds;
+package invalid.myask.dium_beds;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.HolderLookup;
@@ -9,7 +9,7 @@ import net.minecraft.world.level.block.BedBlock;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.state.BlockState;
 
-import static placeholder.pacname.dium_beds.diumBeds.DIUM_BE_T;
+import static invalid.myask.dium_beds.diumBeds.DIUM_BE_T;
 
 public class diumBedBlockEntity extends BlockEntity {
     private DyeColor color;

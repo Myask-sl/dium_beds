@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/yellow"
+    }
+  },
+  "pattern": [
+    "X  ",
+    "###",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:yellow_dium_bed"
+  }
+}

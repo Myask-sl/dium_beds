@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": {
+      "item": "minecraft:cyan_wool"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "tag": "forge:dyes/black"
+    },
+    "w": {
+      "tag": "forge:dyes/white"
+    }
+  },
+  "pattern": [
+    "Xw ",
+    "###",
+    "XdX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "dium_beds:aqua_dium_bed"
+  }
+}
